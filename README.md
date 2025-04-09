@@ -12,13 +12,21 @@
     PRZ – przebieżki 5x100m (na koniec EZ, lekko i technicznie)
 
 📆 TYDZIEŃ 1 (8–14 kwietnia) – baza + reset
+
 Dzień	Trening
+
 Pon (8)	EZ 6 km + STR
+
 Wt (9)	OFF / mobilizacja + rolling
+
 Śr (10)	PRG: 3 x 1.6 km @ 4:15/km, p. 90s + PRZ (razem ~9 km)
+
 Czw (11)	STR + stretching
+
 Pt (12)	EZ 6 km + PRZ
+
 Sob (13)	OFF
+
 Nd (14)	EZ 9 km + STR
 
 📊 Suma: ~30 km
